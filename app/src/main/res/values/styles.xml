@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="FloatingTextInput" parent="Widget.Material3.TextInputLayout.FilledBox">
+        <item name="hintTextAppearance">@style/FloatingHintText</item>
+    </style>
+
+    <style name="FloatingHintText" parent="TextAppearance.Material3.TitleSmall">
+        <item name="android:textColorHint">#0D47A1</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+</resources>

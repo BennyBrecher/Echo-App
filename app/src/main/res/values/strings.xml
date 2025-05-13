@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Echo App</string>
+    <string name="action_settings">Settings</string>
+
+<!--lowkey should erase this-->
+    <string name="initial_text">Enter Text &amp; Press Button Below</string>
+
+
+
+    <string name="enter_text_here">Enter text here</string>
+    <string name="signature_to_overwrite">Benny Brecher – Echo App HW</string>
+
+
+</resources>

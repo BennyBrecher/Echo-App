@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.EchoApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="textInputStyle">@style/FloatingTextInput</item>
+    </style>
+
+    <style name="Theme.EchoApp" parent="Base.Theme.EchoApp" />
+</resources>

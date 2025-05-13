@@ -33,7 +33,7 @@
         android:layout_gravity="bottom|center_horizontal"
         android:layout_marginEnd="@dimen/fab_margin"
         android:layout_marginBottom="16dp"
-        android:text="COPY"
+        android:text="@string/copy"
         app:icon="@drawable/baseline_content_copy_24" />
 
 
